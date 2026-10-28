@@ -1,0 +1,1005 @@
+﻿{
+    "version":  "2026-04-03",
+    "source":  "DPDPA_Template_Cross_Reference_Matrix_Mapped.xlsx",
+    "totalTemplates":  70,
+    "items":  [
+                  {
+                      "rowNumber":  4,
+                      "parentCategory":  "Policies",
+                      "artifactId":  "DATA_PROTECTION_POLICY",
+                      "name":  "Data Protection Policy",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  5,
+                      "parentCategory":  "Policies",
+                      "artifactId":  "DATA_PROCESSING_RETENTION_POLICY",
+                      "name":  "Data Processing \u0026 Retention Policy",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  6,
+                      "parentCategory":  "Policies",
+                      "artifactId":  "EMPLOYEE_DATA_PROTECTION_POLICY",
+                      "name":  "Employee Data Protection Policy",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  7,
+                      "parentCategory":  "Policies",
+                      "artifactId":  "COOKIE_POLICY",
+                      "name":  "Cookie Policy",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  8,
+                      "parentCategory":  "Policies",
+                      "artifactId":  "WEBSITE_APP_PRIVACY_POLICY",
+                      "name":  "Website/App Privacy Policy",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  9,
+                      "parentCategory":  "Policies",
+                      "artifactId":  "DATA_PRIVACY_CYBERSECURITY_POLICY",
+                      "name":  "Data Privacy \u0026 Cybersecurity Policy",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  10,
+                      "parentCategory":  "Notices",
+                      "artifactId":  "CONSENT_NOTICE",
+                      "name":  "Consent Notice",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  11,
+                      "parentCategory":  "Notices",
+                      "artifactId":  "PRE_ACT_DATA_NOTICE",
+                      "name":  "Pre-Act Data Notice",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  12,
+                      "parentCategory":  "Notices",
+                      "artifactId":  "DATA_BREACH_NOTICE_TO_BOARD",
+                      "name":  "Data Breach Notice to Board",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  13,
+                      "parentCategory":  "Notices",
+                      "artifactId":  "DATA_BREACH_NOTICE_TO_DATA_PRINCIPALS",
+                      "name":  "Data Breach Notice to Data Principals",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  14,
+                      "parentCategory":  "Notices",
+                      "artifactId":  "DATA_ERASURE_ADVANCE_NOTICE",
+                      "name":  "Data Erasure Advance Notice",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  15,
+                      "parentCategory":  "Records",
+                      "artifactId":  "DATA_INVENTORY_DATA_MAP",
+                      "name":  "Data Inventory \u0026 Data Map",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  16,
+                      "parentCategory":  "Records",
+                      "artifactId":  "DATA_PROCESSING_REGISTER",
+                      "name":  "Data Processing Register",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  17,
+                      "parentCategory":  "Records",
+                      "artifactId":  "CONSENT_RECORDS_REGISTER",
+                      "name":  "Consent Records Register",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  18,
+                      "parentCategory":  "Records",
+                      "artifactId":  "DATA_BREACH_REGISTER",
+                      "name":  "Data Breach Register",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  19,
+                      "parentCategory":  "Records",
+                      "artifactId":  "DATA_PRINCIPAL_RIGHTS_REQUEST_LOG",
+                      "name":  "Data Principal Rights Request Log",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  20,
+                      "parentCategory":  "Records",
+                      "artifactId":  "CHILDREN_S_DATA_CONSENT_RECORDS",
+                      "name":  "Children\u0027s Data Consent Records",
+                      "description":  "Mandatory only when children\u0027s data is processed; mapped to High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  21,
+                      "parentCategory":  "Agreements",
+                      "artifactId":  "DATA_PROCESSING_AGREEMENT_DPA",
+                      "name":  "Data Processing Agreement (DPA)",
+                      "description":  "Mandatory when third-party sharing / processors are involved; aligned to Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  22,
+                      "parentCategory":  "Agreements",
+                      "artifactId":  "THIRD_PARTY_VENDOR_DATA_SHARING_AGREEMENT",
+                      "name":  "Third-Party Vendor Data Sharing Agreement",
+                      "description":  "Mandatory when third-party sharing / processors are involved; aligned to Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  23,
+                      "parentCategory":  "Agreements",
+                      "artifactId":  "CROSS_BORDER_DATA_TRANSFER_AGREEMENT",
+                      "name":  "Cross-Border Data Transfer Agreement",
+                      "description":  "Mandatory when cross-border transfers exist; mapped to Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  24,
+                      "parentCategory":  "Assessments",
+                      "artifactId":  "DATA_PROTECTION_IMPACT_ASSESSMENT_DPIA",
+                      "name":  "Data Protection Impact Assessment (DPIA)",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  25,
+                      "parentCategory":  "Assessments",
+                      "artifactId":  "ANNUAL_DATA_PROTECTION_AUDIT_REPORT",
+                      "name":  "Annual Data Protection Audit Report",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  26,
+                      "parentCategory":  "Assessments",
+                      "artifactId":  "SECURITY_AUDIT_VAPT_REPORT",
+                      "name":  "Security Audit \u0026 VAPT Report",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  27,
+                      "parentCategory":  "Appointments",
+                      "artifactId":  "DPO_APPOINTMENT_LETTER",
+                      "name":  "DPO Appointment Letter",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  28,
+                      "parentCategory":  "Appointments",
+                      "artifactId":  "PUBLISHED_CONTACT_INFORMATION_NOTICE",
+                      "name":  "Published Contact Information Notice",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  29,
+                      "parentCategory":  "Appointments",
+                      "artifactId":  "CONSENT_MANAGER_REGISTRATION_COMPLIANCE",
+                      "name":  "Consent Manager Registration \u0026 Compliance",
+                      "description":  "Applies only if the entity operates as a Consent Manager.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  false,
+                      "applicableRiskTiers":  [
+
+                                              ]
+                  },
+                  {
+                      "rowNumber":  30,
+                      "parentCategory":  "SOPs",
+                      "artifactId":  "DATA_BREACH_RESPONSE_INCIDENT_MANAGEMENT_SOP",
+                      "name":  "Data Breach Response \u0026 Incident Management SOP",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  31,
+                      "parentCategory":  "SOPs",
+                      "artifactId":  "DATA_ERASURE_DELETION_SOP",
+                      "name":  "Data Erasure \u0026 Deletion SOP",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  32,
+                      "parentCategory":  "SOPs",
+                      "artifactId":  "GRIEVANCE_REDRESSAL_SOP",
+                      "name":  "Grievance Redressal SOP",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  33,
+                      "parentCategory":  "SOPs",
+                      "artifactId":  "DATA_BACKUP_RECOVERY_SOP",
+                      "name":  "Data Backup \u0026 Recovery SOP",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  34,
+                      "parentCategory":  "SOPs",
+                      "artifactId":  "DATA_PRINCIPAL_RIGHTS_FULFILLMENT_SOP",
+                      "name":  "Data Principal Rights Fulfillment SOP",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  35,
+                      "parentCategory":  "SOPs",
+                      "artifactId":  "CONSENT_COLLECTION_MANAGEMENT_SOP",
+                      "name":  "Consent Collection \u0026 Management SOP",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  36,
+                      "parentCategory":  "SOPs",
+                      "artifactId":  "CROSS_BORDER_DATA_TRANSFER_SOP",
+                      "name":  "Cross-Border Data Transfer SOP",
+                      "description":  "Mandatory when cross-border transfers exist; mapped to Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  37,
+                      "parentCategory":  "SOPs",
+                      "artifactId":  "LEGITIMATE_USE_PROCESSING_CONTROLS_SOP",
+                      "name":  "Legitimate Use Processing Controls SOP",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  38,
+                      "parentCategory":  "Training",
+                      "artifactId":  "DATA_PROTECTION_TRAINING_PROGRAM",
+                      "name":  "Data Protection Training Program",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  39,
+                      "parentCategory":  "Training",
+                      "artifactId":  "TRAINING_COMPLETION_ASSESSMENT_RECORDS",
+                      "name":  "Training Completion \u0026 Assessment Records",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  40,
+                      "parentCategory":  "Training",
+                      "artifactId":  "REFRESHER_TRAINING_PERIODIC_EVALUATION",
+                      "name":  "Refresher Training \u0026 Periodic Evaluation",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  41,
+                      "parentCategory":  "Consent Forms",
+                      "artifactId":  "GENERAL_CONSENT_FORM",
+                      "name":  "General Consent Form",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  42,
+                      "parentCategory":  "Consent Forms",
+                      "artifactId":  "PARENTAL_CONSENT_FORM_CHILDREN",
+                      "name":  "Parental Consent Form (Children)",
+                      "description":  "Mandatory only when children\u0027s data is processed; mapped to High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  43,
+                      "parentCategory":  "Consent Forms",
+                      "artifactId":  "GUARDIAN_CONSENT_FORM_DISABILITY",
+                      "name":  "Guardian Consent Form (Disability)",
+                      "description":  "Special-case consent artifact; mapped to High risk where applicable.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  44,
+                      "parentCategory":  "Governance",
+                      "artifactId":  "BOARD_RESOLUTION_FOR_DPDPA_COMPLIANCE",
+                      "name":  "Board Resolution for DPDPA Compliance",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  45,
+                      "parentCategory":  "Governance",
+                      "artifactId":  "DATA_PROTECTION_GOVERNANCE_FRAMEWORK",
+                      "name":  "Data Protection Governance Framework",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  46,
+                      "parentCategory":  "Governance",
+                      "artifactId":  "COMPLIANCE_COMMITTEE_CHARTER",
+                      "name":  "Compliance Committee Charter",
+                      "description":  "Recommended baseline governance artifact elevated for Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  47,
+                      "parentCategory":  "Governance",
+                      "artifactId":  "DPO_REPORTING_TO_BOARD_TEMPLATE",
+                      "name":  "DPO Reporting to Board Template",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  48,
+                      "parentCategory":  "SDF",
+                      "artifactId":  "SDF_SELF_ASSESSMENT_CLASSIFICATION",
+                      "name":  "SDF Self-Assessment \u0026 Classification",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  49,
+                      "parentCategory":  "SDF",
+                      "artifactId":  "ALGORITHMIC_DUE_DILIGENCE_REPORT",
+                      "name":  "Algorithmic Due Diligence Report",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  50,
+                      "parentCategory":  "SDF",
+                      "artifactId":  "DPIA_REGISTER_TRACKER",
+                      "name":  "DPIA Register \u0026 Tracker",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  51,
+                      "parentCategory":  "SDF",
+                      "artifactId":  "AUDIT_FINDINGS_REMEDIATION_TRACKER",
+                      "name":  "Audit Findings Remediation Tracker",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  52,
+                      "parentCategory":  "SDF",
+                      "artifactId":  "REPORT_TO_DPB_SDF_ANNUAL_SUBMISSION",
+                      "name":  "Report to DPB — SDF Annual Submission",
+                      "description":  "High risk / likely SDF mapping based on SDF indicators and enhanced governance expectations.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  53,
+                      "parentCategory":  "Communications",
+                      "artifactId":  "ACCESS_REQUEST_RESPONSE_LETTER",
+                      "name":  "Access Request Response Letter",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  54,
+                      "parentCategory":  "Communications",
+                      "artifactId":  "CORRECTION_REQUEST_RESPONSE_LETTER",
+                      "name":  "Correction Request Response Letter",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  55,
+                      "parentCategory":  "Communications",
+                      "artifactId":  "ERASURE_CONFIRMATION_LETTER",
+                      "name":  "Erasure Confirmation Letter",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  56,
+                      "parentCategory":  "Communications",
+                      "artifactId":  "REQUEST_REJECTION_LETTER",
+                      "name":  "Request Rejection Letter",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  57,
+                      "parentCategory":  "Communications",
+                      "artifactId":  "GRIEVANCE_ACKNOWLEDGMENT_LETTER",
+                      "name":  "Grievance Acknowledgment Letter",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  58,
+                      "parentCategory":  "Communications",
+                      "artifactId":  "GRIEVANCE_RESOLUTION_LETTER",
+                      "name":  "Grievance Resolution Letter",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  59,
+                      "parentCategory":  "Communications",
+                      "artifactId":  "NOMINATION_REGISTRATION_FORM",
+                      "name":  "Nomination Registration Form",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  60,
+                      "parentCategory":  "Government",
+                      "artifactId":  "STATE_INSTRUMENTALITY_PROCESSING_FRAMEWORK",
+                      "name":  "State Instrumentality Processing Framework",
+                      "description":  "Applies only in government / statutory request scenarios.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  false,
+                      "applicableRiskTiers":  [
+
+                                              ]
+                  },
+                  {
+                      "rowNumber":  61,
+                      "parentCategory":  "Government",
+                      "artifactId":  "GOVERNMENT_DATA_REQUEST_RESPONSE",
+                      "name":  "Government Data Request \u0026 Response",
+                      "description":  "Applies only in government / statutory request scenarios.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  false,
+                      "applicableRiskTiers":  [
+
+                                              ]
+                  },
+                  {
+                      "rowNumber":  62,
+                      "parentCategory":  "Processor Mgmt",
+                      "artifactId":  "PROCESSOR_DUE_DILIGENCE_CHECKLIST",
+                      "name":  "Processor Due Diligence Checklist",
+                      "description":  "Mandatory when third-party sharing / processors are involved; aligned to Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  63,
+                      "parentCategory":  "Processor Mgmt",
+                      "artifactId":  "PROCESSOR_COMPLIANCE_MONITORING_REPORT",
+                      "name":  "Processor Compliance Monitoring Report",
+                      "description":  "Mandatory when third-party sharing / processors are involved; aligned to Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  64,
+                      "parentCategory":  "Processor Mgmt",
+                      "artifactId":  "SUB_PROCESSOR_AUTHORIZATION_FORM",
+                      "name":  "Sub-Processor Authorization Form",
+                      "description":  "Mandatory when third-party sharing / processors are involved; aligned to Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  65,
+                      "parentCategory":  "Processor Mgmt",
+                      "artifactId":  "DATA_RETURN_DELETION_CERTIFICATE",
+                      "name":  "Data Return \u0026 Deletion Certificate",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  66,
+                      "parentCategory":  "Evidence",
+                      "artifactId":  "COMPLIANCE_SELF_ASSESSMENT_SCORECARD",
+                      "name":  "Compliance Self-Assessment Scorecard",
+                      "description":  "Recommended baseline governance artifact elevated for Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  67,
+                      "parentCategory":  "Evidence",
+                      "artifactId":  "DATA_ERASURE_PROOF_CERTIFICATE",
+                      "name":  "Data Erasure Proof/Certificate",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  68,
+                      "parentCategory":  "Evidence",
+                      "artifactId":  "TRANSFER_IMPACT_ASSESSMENT",
+                      "name":  "Transfer Impact Assessment",
+                      "description":  "Mandatory when cross-border transfers exist; mapped to Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  69,
+                      "parentCategory":  "Evidence",
+                      "artifactId":  "DATA_CLASSIFICATION_MATRIX",
+                      "name":  "Data Classification Matrix",
+                      "description":  "Recommended baseline governance artifact elevated for Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  70,
+                      "parentCategory":  "Evidence",
+                      "artifactId":  "ANNUAL_COMPLIANCE_REPORT_TO_MANAGEMENT",
+                      "name":  "Annual Compliance Report to Management",
+                      "description":  "Recommended baseline governance artifact elevated for Medium and High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  71,
+                      "parentCategory":  "Exemptions",
+                      "artifactId":  "RESEARCH_ARCHIVAL_STATISTICAL_EXEMPTION",
+                      "name":  "Research/Archival/Statistical Exemption",
+                      "description":  "Not auto-mapped; verify specific use case.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  false,
+                      "applicableRiskTiers":  [
+
+                                              ]
+                  },
+                  {
+                      "rowNumber":  72,
+                      "parentCategory":  "Exemptions",
+                      "artifactId":  "CHILDREN_S_DATA_EXEMPTION_RECORD",
+                      "name":  "Children\u0027s Data Exemption Record",
+                      "description":  "Mandatory only when children\u0027s data is processed; mapped to High risk.",
+                      "lowRiskMandatory":  false,
+                      "mediumRiskMandatory":  false,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "HIGH"
+                                              ]
+                  },
+                  {
+                      "rowNumber":  73,
+                      "parentCategory":  "Exemptions",
+                      "artifactId":  "LEGITIMATE_USE_JUSTIFICATION_RECORD",
+                      "name":  "Legitimate Use Justification Record",
+                      "description":  "Baseline mandatory / scenario-driven artifact for all data fiduciaries.",
+                      "lowRiskMandatory":  true,
+                      "mediumRiskMandatory":  true,
+                      "highRiskMandatory":  true,
+                      "applicableRiskTiers":  [
+                                                  "BASIC",
+                                                  "MODERATE",
+                                                  "HIGH"
+                                              ]
+                  }
+              ]
+}

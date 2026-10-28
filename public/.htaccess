@@ -1,0 +1,62 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /trinetrai/
+
+  # Pass /api/* to Node.js — MUST be before SPA catch-all
+  RewriteCond %{REQUEST_URI} ^/api
+  RewriteRule ^ - [L]
+
+  # SPA routing - Don't rewrite if file/directory exists
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+
+  # Redirect all other requests to index.html
+  RewriteRule ^(.*)$ /trinetrai/index.html [L]
+</IfModule>
+
+# Enable GZIP compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json application/xml
+</IfModule>
+
+# Browser caching for static assets
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType application/x-javascript "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType application/pdf "access plus 1 month"
+  ExpiresByType text/x-javascript "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresDefault "access plus 2 days"
+</IfModule>
+
+# Security Headers
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-XSS-Protection "1; mode=block"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION BEGIN
+<IfModule Litespeed>
+SetEnv API_PREFIX api
+SetEnv CORS_ORIGINS https://urjourney.in
+SetEnv DATABASE_URL postgresql://dymgcxar_AI_police_user:yagyayb185039@localhost:5432/dymgcxar_AI_police?schema=public
+SetEnv JWT_EXPIRATION 1h
+SetEnv JWT_SECRET 11111111111111111111111111111111
+SetEnv NODE_ENV production
+SetEnv REFRESH_TOKEN_EXPIRATION 7d
+SetEnv REFRESH_TOKEN_SECRET 111111111111111111111111111111
+SetEnv NODE_OPTIONS --jitless
+</IfModule>
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION END
